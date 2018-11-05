@@ -94,10 +94,17 @@ body nav ul li a img{
 }
 
 .p80 {
-    padding-top: 10%;
+    padding-top: 15%;
     padding-bottom: 8%;
 }
 
 .fullscreen {
     min-height: 60vh;
+}
+
+.down {
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    padding: 1rem;
 }
