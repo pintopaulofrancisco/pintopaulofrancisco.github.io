@@ -7,7 +7,6 @@ html, body{
     height: 100%;
     margin: 0;
     padding: 0;
-    background-image: url('../files/wallpaperIT.png');
     background-repeat: no-repeat;
     background-size: auto 100%;
     background-color: #EFEFEF;
@@ -92,4 +91,13 @@ body nav ul li a img{
     padding: 0 0 35px;
     color: #313131;
     margin: 0;
+}
+
+.p80 {
+    padding-top: 15%;
+    padding-bottom: 8%;
+}
+
+.fullscreen {
+    min-height: 60vh;
 }
