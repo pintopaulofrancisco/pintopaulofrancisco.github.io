@@ -15,17 +15,17 @@ function init() {
         phase: 0
     },
         ball_color = {
-            r: 207,
-            g: 255,
-            b: 4
+            r: 236,
+            g: 173,
+            b: 143
         },
-        R = 3.5,
+        R = 6,
         balls = [],
         alpha_f = 0.02,
         
         // Line
-        link_line_width = 3.5,
-        dis_limit = 260,
+        link_line_width = 2,
+        dis_limit = 200,
         mouse_ball = {
             x: 0,
             y: 0,
